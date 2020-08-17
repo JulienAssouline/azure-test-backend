@@ -1,0 +1,6 @@
+{
+  "name": "test azure",
+  "description": "simple test",
+  "repository": "https://github.com/JulienAssouline/azure-test-backend.git",
+  "keywords": ["node", "heroku", "express"]
+}
