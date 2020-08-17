@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: "https://azurereactstorage.z9.web.core.windows.net",
+    origin: "https://tbjvideo.z13.web.core.windows.net",
     credentials: true,
   })
 );
